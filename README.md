@@ -10,6 +10,6 @@ This Starter website also contains recommendations for places to visits, our spe
 We are very thankful to GKG for arranging such a wonderful opportunity such early in our college life.
 
 Our team consists of three members: 
-Ashutosh Yadav - CS DS(1st Year)
+Ashutosh Singh Yadav - CS DS(1st Year)
 Aman Dixit     - CS DS(1st Year)
 Shivam Patel   -  ECE(1st Year)
